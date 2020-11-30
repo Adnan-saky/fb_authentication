@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "921670467987",
+    "firebase_url": "https://fbauthentication-ad567.firebaseio.com",
+    "project_id": "fbauthentication-ad567",
+    "storage_bucket": "fbauthentication-ad567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921670467987:android:a2bdbe777c0766ef722866",
+        "android_client_info": {
+          "package_name": "com.example.fb_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921670467987-p41apcn1535b7a2ko2rph3122ilst39k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fb_authentication",
+            "certificate_hash": "db51cdb1c3a4ca51af78d06493d07dc8020efe9b"
+          }
+        },
+        {
+          "client_id": "921670467987-hbqr38nphn62jgpvvhpnp4541pnqt40c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLc0aWXseww9-35S31X3UcRlfXASxnBwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921670467987-hbqr38nphn62jgpvvhpnp4541pnqt40c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
